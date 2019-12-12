@@ -1,5 +1,6 @@
 # DataSience_Project7
 The Oscars: Great Stories and Great Visual Effects
+
 Steps:
 1.	Load data into data frame
 2.	Visualization  <br />
